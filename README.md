@@ -3,32 +3,7 @@
 
 Prueba Técnica - Razonamiento lógico
 
-En BairesDev, reconocemos la importancia del razonamiento lógico y la habilidad para resolver
-desafíos en el éxito de nuestro equipo. Para evaluar tus aptitudes en la resolución de problemas,
-hemos diseñado esta prueba de ingreso. Es esencial que comprendas y sigas las siguientes reglas
-para llevar a cabo esta prueba de manera adecuada:
 
-Compromiso durante la Prueba: Una vez que comiences la prueba, te pedimos que permanezcas
-en tu puesto. Si te levantas de tu lugar, consideraremos que la prueba ha finalizado. Esta regla se
-establece para mantener un ambiente de igualdad y equidad entre los participantes.
-
-Independencia en la Resolución: Durante la prueba, no está permitido preguntar a tus compañeros.
-Valoramos tu capacidad para abordar los desafíos de manera individual y confiamos en tu habilidad
-para encontrar soluciones por tu cuenta. Esta regla busca evaluar tu capacidad de resolución
-autónoma y tu destreza en situaciones desafiantes.
-
-Ten en cuenta que esta prueba es una oportunidad para demostrar tus capacidades y habilidades
-en la resolución de problemas, que son cualidades fundamentales para tener éxito en BairesDev.
-
-¡Te deseamos mucha suerte y estamos emocionados por conocer tus habilidades!
-Reto 1: Fibonacci
-
-Los números de Fibonacci 𝐹𝐾 son una sucesión de números naturales definidos de la siguiente
-manera:
-
-En palabras simples, la sucesión de Fibonacci comienza con 0 y 1, y los siguientes términos siempre
-son la suma de los dos anteriores.
-En la siguiente tabla, podemos ver los números de Fibonacci desde el 0-ésimo hasta el duodécimo.
 
 1. Escriba un programa que reciba como entrada un número entero n, y entregue como salida el nésimo número de Fibonacci:
 
